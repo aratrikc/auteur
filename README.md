@@ -1,2 +1,3 @@
 # auteur
-album project
+album project- six chapters to understand author
+
